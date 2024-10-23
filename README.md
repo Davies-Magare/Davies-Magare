@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="30px"/> Nice to meet you!</h1>
 
-<img align="left" src="" width="200"/> 
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Davies-Magare.Davies-Magare) 
