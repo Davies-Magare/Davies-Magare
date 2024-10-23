@@ -10,6 +10,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Davies-Magare&&style=flat-square" align="center"/>
 
+- 🌍 Based in KE!
+- 🎓 Learning Programming
+
 </div>
 
 ---
@@ -32,9 +35,6 @@
 <hr>
 
 :man_technologist: About Me:
-
-- 🌍 Based in KE!
-- 🎓 Learning Programming
   
 ```
 #!/usr/bin/C#
