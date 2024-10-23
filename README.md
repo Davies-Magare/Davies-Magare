@@ -9,10 +9,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?label=Follow&style=social)](https://github.com/Davies-Magare)
 
 <img src="https://komarev.com/ghpvc/?username=Davies-Magare&&style=flat-square" align="center"/>
-
-- 🌍 Based in KE!
-- 🎓 Learning Programming
-
 </div>
 
 ---
