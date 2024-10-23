@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="30px"/> Nice to meet you!</h1>
 
-<img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611fnxomhfr8eavly9ehgwzj5xxkavprjn1bghprmo9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/> 
+<img align="left" src="" width="200"/> 
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Davies-Magare.Davies-Magare) 
@@ -34,7 +34,7 @@
 
 :man_technologist: About Me:
 
-- 🌍 Based in KE![image](https://github.com/user-attachments/assets/0b29d394-b347-4829-ac05-e0c85c7a926c)
+- 🌍 Based in KE!
 - 🎓 Learning Programming
   
 ```
